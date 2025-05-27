@@ -1,1 +1,2 @@
-Next.js application with Sanity CMS version 1
+# Cosmodrome Agency Website
+Lets work together! Visit our site to explore.
